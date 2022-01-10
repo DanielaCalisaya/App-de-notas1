@@ -1,0 +1,14 @@
+[
+    {
+        "titulo" : "Masa de pizza",
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "Aplicación de notas",
+        "estado" : "en progreso"
+    },
+    {
+        "titulo" : "Ejercicios de for",
+        "estado" : "pendiente"
+    }
+]
