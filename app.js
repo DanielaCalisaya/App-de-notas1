@@ -1,11 +1,13 @@
-let fs = require('fs');
+let fs = require('fs'); //requerimos fs
 
-let process = require('process')
+let process = require('process') //requerimos process
 let anotaciones = process.argv[2] 
 
+
 function lecturaJSON() {    
-    return JSON.parse(fs.readFileSync('./tareas.json', 'utf-8'))
+    return JSON.parse(fs.readFileSync('./tareas.json', 'utf-8')) //readFileSync lee nuestro JSON
 }
+
 
 switch (anotaciones) {
     case 'listar':
