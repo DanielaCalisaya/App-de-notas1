@@ -2,10 +2,11 @@
 
 ![portada](img/cover.png)
 
-## Objetivo
-Vamos a armar una app de tareas que nos permita guardar notas cortas utilizando las
-herramientas que hasta el momento hemos aprendido.
+## Sobre este proyecto...
+App de tareas que permite guardar notas cortas. Cada tarea tiene un título y un estado.
+También si se le pasa un argumento hay diferentes casos que me devolverá.
 
+Se utiliza el módulo nativo FS y se implementa la modularización.
 
 
 ## M2 C5
